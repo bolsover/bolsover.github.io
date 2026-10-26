@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generated": "2026-10-25T10:37:50Z",
+  "generated": "2026-10-26T15:18:55Z",
   "addons": [
     {
       "id": "{320B6FCE-3A12-4E64-8149-DF167B553713}",
@@ -25,7 +25,7 @@
       "name": "Alibre Add-On Manager",
       "publisher": "David Bolsover",
       "summary": "Install, update, disable and remove Alibre Design add-ons",
-      "latestVersion": "1.1.0",
+      "latestVersion": "1.2.0",
       "workspaces": ["Always"],
       "manifestUrl": "addons/{925B370F-9858-4416-A7D9-1DD8FAAC16A0}.json"
     },

@@ -10,7 +10,7 @@
   "homepage": "https://github.com/bolsover/AlibreAddInManager",
   "description": "Install, update, disable and remove Alibre Design add-ons.",
   "versions": [
-       {
+    {
       "version": "1.1.0",
       "released": "2026-10-20",
       "kind": "integrated",
@@ -20,6 +20,17 @@
       "packageUrl": "packages/AlibreAddOnManager-1.1.0.alibreaddon",
       "sha256": "1d190b024b674d9bf4aaa31fbe34e8f6f290f8e5a3e9e29394d187fb353ba145",
       "size": 692132
+    },
+    {
+      "version": "1.2.0",
+      "released": "2026-10-26",
+      "kind": "integrated",
+      "dllType": "managed",
+      "arch": "x64",
+      "minAlibreBuild": 29000,
+      "packageUrl": "packages/AlibreAddOnManager-1.2.0.alibreaddon",
+      "sha256": "e5dbe1fd6c87b77d371d59890c6bf39abfc206ba4dc42e552cae91c68849e2a2",
+      "size": 827636
     }
   ]
 }
