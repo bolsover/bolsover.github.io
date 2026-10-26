@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "id": "{378829C4-F122-4617-92E0-E36ADD4F9AA8}",
+  "name": "Alibre Export Open",
+  "folderName": "AlibreExportOpen",
+  "publisher": {
+    "name": "David Bolsover",
+    "url": "https://github.com/bolsover/AlibreExportOpen"
+  },
+  "homepage": "https://github.com/bolsover/AlibreExportOpen",
+  "description": "Alibre Export and Open .stl",
+  "versions": [
+    {
+      "version": "1.1.0",
+      "released": "2026-10-07",
+      "kind": "integrated",
+      "dllType": "managed",
+      "arch": "x64",
+      "packageUrl": "packages/AlibreExportOpen-1.1.0.alibreaddon",
+      "sha256": "73b4b1385aa8507c0e7ca17c372232a16c628fd8ce91bcf7c1d8f7b870f70c7d",
+      "size": 139992
+    }
+  ]
+}

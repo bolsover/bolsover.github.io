@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "id": "{925B370F-9858-4416-A7D9-1DD8FAAC16A0}",
+  "name": "Alibre Add-On Manager",
+  "folderName": "AlibreAddOnManager",
+  "publisher": {
+    "name": "David Bolsover",
+    "url": "https://github.com/bolsover/AlibreAddInManager"
+  },
+  "homepage": "https://github.com/bolsover/AlibreAddInManager",
+  "description": "Install, update, disable and remove Alibre Design add-ons.",
+  "versions": [
+       {
+      "version": "1.1.0",
+      "released": "2026-10-20",
+      "kind": "integrated",
+      "dllType": "managed",
+      "arch": "x64",
+      "minAlibreBuild": 29000,
+      "packageUrl": "packages/AlibreAddOnManager-1.1.0.alibreaddon",
+      "sha256": "1d190b024b674d9bf4aaa31fbe34e8f6f290f8e5a3e9e29394d187fb353ba145",
+      "size": 692132
+    }
+  ]
+}

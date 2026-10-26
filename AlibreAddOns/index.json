@@ -1,0 +1,60 @@
+{
+  "schemaVersion": 1,
+  "generated": "2026-10-25T10:37:50Z",
+  "addons": [
+    {
+      "id": "{320B6FCE-3A12-4E64-8149-DF167B553713}",
+      "name": "Alibre PDM API Sample",
+      "publisher": "Alibre, LLC",
+      "summary": "Sample of the Alibre PDM API: browse PDM safes, edit properties and check files in",
+      "latestVersion": "1.0.0",
+      "workspaces": ["Always"],
+      "manifestUrl": "addons/{320B6FCE-3A12-4E64-8149-DF167B553713}.json"
+    },
+    {
+      "id": "{378829C4-F122-4617-92E0-E36ADD4F9AA8}",
+      "name": "Alibre Export Open",
+      "publisher": "David Bolsover",
+      "summary": "Alibre Export and Open .stl",
+      "latestVersion": "1.1.0",
+      "workspaces": ["Always"],
+      "manifestUrl": "addons/{378829C4-F122-4617-92E0-E36ADD4F9AA8}.json"
+    },
+    {
+      "id": "{925B370F-9858-4416-A7D9-1DD8FAAC16A0}",
+      "name": "Alibre Add-On Manager",
+      "publisher": "David Bolsover",
+      "summary": "Install, update, disable and remove Alibre Design add-ons",
+      "latestVersion": "1.1.0",
+      "workspaces": ["Always"],
+      "manifestUrl": "addons/{925B370F-9858-4416-A7D9-1DD8FAAC16A0}.json"
+    },
+    {
+      "id": "{37882997-F122-5217-92E0-976ADD4F9AA8}",
+      "name": "Alibre Stl Stp Converter",
+      "publisher": "David Bolsover",
+      "summary": "Alibre Stl Stp Converter",
+      "latestVersion": "2.3.0",
+      "workspaces": ["Always"],
+      "manifestUrl": "addons/{37882997-F122-5217-92E0-976ADD4F9AA8}.json"
+    },
+    {
+      "id": "{5335EC08-0BFC-43F2-92BB-2DDFBC45553D}",
+      "name": "Parabola Addon",
+      "publisher": "DavidBolsover",
+      "summary": "Parabola Addon to generate parabolic curves in 2D and 3D sketches",
+      "latestVersion": "1.0.0",
+      "workspaces": ["Part"],
+      "manifestUrl": "addons/{5335EC08-0BFC-43F2-92BB-2DDFBC45553D}.json"
+    },
+    {
+      "id": "{54F4CD6C-7734-4BB2-9D85-DFE8E5088D6A}",
+      "name": "Plot3D Addon",
+      "publisher": "DavidBolsover",
+      "summary": "Plot3D Addon to generate 3D parametric curves as 3D sketches in Alibre Part environment",
+      "latestVersion": "1.0.0",
+      "workspaces": ["Part"],
+      "manifestUrl": "addons/{54F4CD6C-7734-4BB2-9D85-DFE8E5088D6A}.json"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "id": "{37882997-F122-5217-92E0-976ADD4F9AA8}",
+  "name": "Alibre Stl Stp Converter",
+  "folderName": "AlibreStlStpConverter",
+  "publisher": {
+    "name": "David Bolsover",
+    "url": "https://github.com/bolsover/StlStpConverter"
+  },
+  "homepage": "https://github.com/bolsover/StlStpConverter",
+  "description": "Alibre Stl Stp Converter",
+  "versions": [
+    {
+      "version": "2.3.0",
+      "released": "2026-10-20",
+      "kind": "integrated",
+      "dllType": "managed",
+      "arch": "x64",
+      "packageUrl": "packages/AlibreStlStpConverter-2.3.0.alibreaddon",
+      "sha256": "c0de11ee9090facc6326a8eb0ba5b4a4134871adb9cd444257b8d23bb4fae8da",
+      "size": 77687
+    }
+  ]
+}

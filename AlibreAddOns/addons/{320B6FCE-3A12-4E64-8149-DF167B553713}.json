@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "id": "{320B6FCE-3A12-4E64-8149-DF167B553713}",
+  "name": "Alibre PDM API Sample",
+  "folderName": "AlibrePdmApiSample",
+  "publisher": {
+    "name": "Alibre, LLC",
+    "url": "https://www.alibre.com"
+  },
+  "homepage": "https://www.alibre.com",
+  "description": "Sample of the Alibre PDM API: browse PDM safes, edit properties and check files in.",
+  "versions": [
+    {
+      "version": "1.0.0",
+      "released": "2026-10-05",
+      "kind": "integrated",
+      "dllType": "managed",
+      "arch": "x64",
+      "minAlibreBuild": 29000,
+      "packageUrl": "packages/AlibrePdmApiSample-1.0.0.alibreaddon",
+      "sha256": "9647be9bd56eb6aa28d81a34e23c51b8c95b0c32150be593135f5a15e0721c13",
+      "size": 20240
+    }
+  ]
+}
