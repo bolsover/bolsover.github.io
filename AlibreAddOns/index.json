@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generated": "2026-10-26T15:18:55Z",
+  "generated": "2026-10-28T16:24:22Z",
   "addons": [
     {
       "id": "{320B6FCE-3A12-4E64-8149-DF167B553713}",
@@ -55,6 +55,15 @@
       "latestVersion": "1.0.0",
       "workspaces": ["Part"],
       "manifestUrl": "addons/{54F4CD6C-7734-4BB2-9D85-DFE8E5088D6A}.json"
+    },
+    {
+      "id": "{90170D0D-AF9B-4893-8967-91C980203EA2}",
+      "name": "Alibre Shortcuts",
+      "publisher": "David Bolsover",
+      "summary": "Alibre Shortcuts",
+      "latestVersion": "1.0.0",
+      "workspaces": ["Always"],
+      "manifestUrl": "addons/{90170D0D-AF9B-4893-8967-91C980203EA2}.json"
     }
   ]
 }

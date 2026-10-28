@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "id": "{90170D0D-AF9B-4893-8967-91C980203EA2}",
+  "name": "Alibre Shortcuts",
+  "folderName": "Shortcuts",
+  "publisher": {
+    "name": "David Bolsover",
+    "url": "https://github.com/bolsover/AlibreShortcuts"
+  },
+  "homepage": "https://github.com/bolsover/AlibreShortcuts",
+  "description": "Alibre Shortcuts",
+  "versions": [
+    {
+      "version": "1.0.0",
+      "released": "2026-10-28",
+      "kind": "integrated",
+      "dllType": "managed",
+      "arch": "x64",
+      "packageUrl": "packages/Shortcuts-1.0.0.alibreaddon",
+      "sha256": "3cf69fe7192ea21143d8a3441d309d51f563453a59af820e237230d7e40ccef3",
+      "size": 78724
+    }
+  ]
+}
