@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "id": "{05A0F2F2-61D4-48B3-A737-BD23152F6FFF}",
+  "name": "Gears",
+  "folderName": "GearsAddOn",
+  "publisher": {
+    "name": "David Bolsover",
+    "url": "https://github.com/bolsover/Gears"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/bolsover/Gears",
+  "description": "Gear train editor: shafts, spur, helical, bevel, worm, rack and planetary gears with 2D and 3D views.",
+  "versions": [
+    {
+      "version": "0.1.0",
+      "released": "2026-11-05",
+      "kind": "integrated",
+      "dllType": "managed",
+      "arch": "x64",
+      "minAlibreBuild": 29000,
+      "packageUrl": "packages/GearsAddOn-0.1.0.alibreaddon",
+      "sha256": "ee51667d0fa100eeb6bb58122f456103649308fcd94fd256d91fcacc7d4e521b",
+      "size": 2576339,
+      "releaseNotes": "Initial beta release for public review and testing."
+    }
+  ]
+}
