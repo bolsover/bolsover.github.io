@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generated": "2026-11-05T21:07:54Z",
+  "generated": "2026-11-10T13:31:43Z",
   "addons": [
     {
       "id": "{320B6FCE-3A12-4E64-8149-DF167B553713}",
@@ -70,7 +70,7 @@
       "name": "Gears",
       "publisher": "David Bolsover",
       "summary": "Gear train editor: shafts, spur, helical, bevel, worm, rack and planetary gears with 2D and 3D views",
-      "latestVersion": "0.1.0",
+      "latestVersion": "0.2.0",
       "workspaces": ["Part"],
       "manifestUrl": "addons/{05A0F2F2-61D4-48B3-A737-BD23152F6FFF}.json"
     }

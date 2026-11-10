@@ -22,6 +22,17 @@
       "sha256": "ee51667d0fa100eeb6bb58122f456103649308fcd94fd256d91fcacc7d4e521b",
       "size": 2576339,
       "releaseNotes": "Initial beta release for public review and testing."
+    },
+    {
+      "version": "0.2.0",
+      "released": "2026-11-10",
+      "kind": "integrated",
+      "dllType": "managed",
+      "arch": "x64",
+      "minAlibreBuild": 29000,
+      "packageUrl": "packages/GearsAddOn-0.2.0.alibreaddon",
+      "sha256": "c5c62f5eaca522c24c328543da89a7750f0362856562a07d02083403aa196803",
+      "size": 2636392
     }
   ]
 }
