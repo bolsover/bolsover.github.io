@@ -44,6 +44,17 @@
       "packageUrl": "packages/GearsAddOn-0.3.0.alibreaddon",
       "sha256": "0c8d72c3ed515a3a7e1df852ead5de2d89934a75085f6629732f6774de913273",
       "size": 2657643
+    },
+    {
+      "version": "1.0.0",
+      "released": "2026-11-14",
+      "kind": "integrated",
+      "dllType": "managed",
+      "arch": "x64",
+      "minAlibreBuild": 29100,
+      "packageUrl": "packages/GearsAddOn-1.0.0.alibreaddon",
+      "sha256": "c54ee7246e51ea45d9ec71b9558b30974e2135260c70943324e3cdea2050c0c2",
+      "size": 2660239
     }
   ]
 }
