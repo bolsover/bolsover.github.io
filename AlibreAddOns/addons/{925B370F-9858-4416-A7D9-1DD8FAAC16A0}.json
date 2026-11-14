@@ -31,6 +31,17 @@
       "packageUrl": "packages/AlibreAddOnManager-1.2.0.alibreaddon",
       "sha256": "e5dbe1fd6c87b77d371d59890c6bf39abfc206ba4dc42e552cae91c68849e2a2",
       "size": 827636
+    },
+    {
+      "version": "1.3.0",
+      "released": "2026-11-14",
+      "kind": "integrated",
+      "dllType": "managed",
+      "arch": "x64",
+      "minAlibreBuild": 29000,
+      "packageUrl": "packages/AlibreAddOnManager-1.3.0.alibreaddon",
+      "sha256": "b1a31249341e78a57d49c6f8d3d189d7675ebf034ff107b1087597bf40060cb6",
+      "size": 830695
     }
   ]
 }

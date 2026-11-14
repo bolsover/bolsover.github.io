@@ -4,22 +4,22 @@
   "name": "Plot3D Addon",
   "folderName": "Plot3D",
   "publisher": {
-    "name": "DavidBolsover",
+    "name": "David Bolsover",
     "url": "https://github.com/bolsover/Plot3D"
   },
   "homepage": "https://github.com/bolsover/Plot3D",
   "description": "Plot3D Addon to generate 3D parametric curves as 3D sketches in Alibre Part environment.",
   "versions": [
     {
-      "version": "1.0.0",
-      "released": "2026-10-25",
+      "version": "1.1.0",
+      "released": "2026-11-14",
       "kind": "integrated",
       "dllType": "managed",
       "arch": "x64",
       "minAlibreBuild": 29000,
-      "packageUrl": "packages/Plot3D-1.0.0.alibreaddon",
-      "sha256": "e5fd0fc7994376f2a0f4bb93161bd51fc486e4b11fe05593ad8ed63e86915c17",
-      "size": 256916
+      "packageUrl": "packages/Plot3D-1.1.0.alibreaddon",
+      "sha256": "6d1e897c2b7d150283f361aae9b6deb34a47caf684e1a10dce351ac50a7106c6",
+      "size": 518702
     }
   ]
 }
