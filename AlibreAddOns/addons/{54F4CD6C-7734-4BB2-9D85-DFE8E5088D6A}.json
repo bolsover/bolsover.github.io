@@ -20,6 +20,17 @@
       "packageUrl": "packages/Plot3D-1.1.0.alibreaddon",
       "sha256": "6d1e897c2b7d150283f361aae9b6deb34a47caf684e1a10dce351ac50a7106c6",
       "size": 518702
+    },
+    {
+      "version": "1.2.0",
+      "released": "2026-11-25",
+      "kind": "integrated",
+      "dllType": "managed",
+      "arch": "x64",
+      "minAlibreBuild": 29000,
+      "packageUrl": "packages/Plot3D-1.2.0.alibreaddon",
+      "sha256": "fe3f208734a3e78f6a5c91219f14f0d406dfb12c15b4828060d80e533ad8f50f",
+      "size": 518881
     }
   ]
 }
